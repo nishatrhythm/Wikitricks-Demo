@@ -1,3 +1,3 @@
 # Wikitricks Demo
 
-<img src = "images/Screenshot.jpg" width = 200>
+<img src = "images/Screenshot.PNG" width = 200>
